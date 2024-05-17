@@ -1,0 +1,456 @@
+[28-Aug-2023 19:47:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 19:47:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 19:47:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 19:47:50 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 19:47:50 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 19:47:50 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 19:47:51 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 19:47:51 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 19:47:51 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 19:47:52 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 19:47:52 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 19:47:52 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 19:47:54 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 19:47:54 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 19:47:54 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 19:47:58 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 19:47:58 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 19:47:58 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 20:19:32 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 20:19:32 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 20:19:32 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 20:19:33 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 20:19:33 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 20:19:33 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 20:19:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 20:19:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 20:19:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 20:19:36 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 20:19:36 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 20:19:36 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 20:19:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 20:19:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 20:19:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 22:02:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 22:02:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 22:02:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 22:02:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 22:02:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 22:02:39 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 22:02:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 22:02:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 22:02:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 22:02:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 22:02:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 22:02:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 22:02:42 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 22:02:42 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 22:02:42 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[28-Aug-2023 22:02:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[28-Aug-2023 22:02:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[28-Aug-2023 22:02:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 00:18:53 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 00:18:53 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 00:18:53 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 00:18:53 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 00:18:53 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 00:18:53 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 00:18:54 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 00:18:54 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 00:18:54 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 07:09:15 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 07:09:15 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 07:09:15 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 07:09:15 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 07:09:15 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 07:09:15 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 07:09:16 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 07:09:16 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 07:09:16 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 10:11:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 10:11:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 10:11:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 10:11:21 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 10:11:21 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 10:11:21 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 10:11:21 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 10:11:21 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 10:11:21 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 10:11:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 10:11:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 10:11:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 10:11:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 10:11:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 10:11:22 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 10:11:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 10:11:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 10:11:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 10:11:24 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 10:11:24 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 10:11:24 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 15:05:13 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 15:05:13 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 15:05:13 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 15:14:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 15:14:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 15:14:41 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 15:20:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 15:20:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 15:20:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 20:44:45 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 20:44:45 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 20:44:45 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 20:44:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 20:44:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 20:44:46 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 20:44:48 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 20:44:48 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 20:44:48 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[29-Aug-2023 20:44:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[29-Aug-2023 20:44:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[29-Aug-2023 20:44:49 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 11:23:57 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 11:23:57 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 11:23:57 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 16:40:28 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 16:40:28 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 16:40:28 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 20:57:44 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 22:28:03 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 22:28:03 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 22:28:03 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 22:28:05 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 22:28:05 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 22:28:05 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 22:28:06 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 22:28:06 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 22:28:06 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[30-Aug-2023 22:28:07 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[30-Aug-2023 22:28:07 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[30-Aug-2023 22:28:07 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[31-Aug-2023 10:25:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[31-Aug-2023 10:25:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[31-Aug-2023 10:25:20 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[31-Aug-2023 15:29:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[31-Aug-2023 15:29:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[31-Aug-2023 15:29:23 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[31-Aug-2023 15:29:24 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[31-Aug-2023 15:29:24 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[31-Aug-2023 15:29:24 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[31-Aug-2023 15:29:25 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[31-Aug-2023 15:29:25 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[31-Aug-2023 15:29:25 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[03-Sep-2023 00:16:34 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[03-Sep-2023 00:16:35 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1742
+[03-Sep-2023 00:16:35 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/base/document.php on line 1751
+[03-Sep-2023 00:16:35 UTC] PHP Warning:  Attempt to read property "post_status" on null in /home/divdevel/public_html/wp-content/plugins/elementor/core/kits/manager.php on line 280
+[06-Sep-2023 15:12:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-Sep-2023 15:34:26 UTC] WordPress database error Unknown column 'total_sales' in 'field list' for query REPLACE INTO `wpie_wc_order_stats` (`order_id`, `parent_id`, `date_created`, `date_paid`, `date_completed`, `date_created_gmt`, `num_items_sold`, `total_sales`, `tax_total`, `shipping_total`, `net_total`, `status`, `customer_id`, `returning_customer`) VALUES (1144, 0, '2023-09-06 15:33:36', NULL, NULL, '2023-09-06 15:33:36', 1, 9.950000, 0.000000, 0.000000, 9.950000, 'wc-processing', 1, 0) made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('wc-admin_import_orders'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Internal\Admin\Schedulers\ImportScheduler::do_action_or_reschedule, call_user_func_array, Automattic\WooCommerce\Internal\Admin\Schedulers\OrdersScheduler::import, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore::sync_order, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore::update
+[06-Nov-2023 07:07:38 UTC] PHP Warning:  opendir(./wp-content/uploads/2022/11): failed to open dir: No such file or directory in /home/divdevel/public_html/cls.php on line 34
+[10-Dec-2023 13:19:20 UTC] Sync process for Gutenberg Blocks has started.
+[10-Dec-2023 13:19:20 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[10-Dec-2023 13:19:20 UTC] BLOCK: Requests count 8
+[10-Dec-2023 13:19:20 UTC] BLOCK: Importing request 1 ..
+[10-Dec-2023 13:19:20 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 1
+[10-Dec-2023 13:19:21 UTC] BLOCK: Importing request 2 ..
+[10-Dec-2023 13:19:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 2
+[10-Dec-2023 13:19:21 UTC] BLOCK: Importing request 3 ..
+[10-Dec-2023 13:19:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 3
+[10-Dec-2023 13:19:21 UTC] BLOCK: Importing request 4 ..
+[10-Dec-2023 13:19:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 4
+[10-Dec-2023 13:19:21 UTC] BLOCK: Importing request 5 ..
+[10-Dec-2023 13:19:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 5
+[10-Dec-2023 13:19:21 UTC] BLOCK: Importing request 6 ..
+[10-Dec-2023 13:19:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 6
+[10-Dec-2023 13:19:21 UTC] BLOCK: Importing request 7 ..
+[10-Dec-2023 13:19:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 7
+[10-Dec-2023 13:19:21 UTC] BLOCK: Importing request 8 ..
+[10-Dec-2023 13:19:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[10-Dec-2023 13:19:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[10-Dec-2023 13:19:21 UTC] BLOCK: Completed request 8
+[10-Dec-2023 13:19:21 UTC] Sync process for Gutenberg Blocks is done.
+[10-Dec-2023 13:25:43 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Dec-2023 06:08:53 UTC] PHP Warning:  require_once(/home/divdevel/public_html/wp-content/themes/astra/inc/core/class-astra-theme-options.php): failed to open stream: No such file or directory in /home/divdevel/public_html/wp-content/themes/astra/functions.php on line 32
+[29-Dec-2023 06:08:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/divdevel/public_html/wp-content/themes/astra/inc/core/class-astra-theme-options.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/divdevel/public_html/wp-content/themes/astra/functions.php on line 32
+[29-Dec-2023 06:08:56 UTC] PHP Warning:  require_once(/home/divdevel/public_html/wp-content/themes/astra/inc/core/class-astra-theme-options.php): failed to open stream: No such file or directory in /home/divdevel/public_html/wp-content/themes/astra/functions.php on line 32
+[29-Dec-2023 06:08:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/divdevel/public_html/wp-content/themes/astra/inc/core/class-astra-theme-options.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/divdevel/public_html/wp-content/themes/astra/functions.php on line 32
+[15-Jan-2024 06:53:51 UTC] Sync process for Gutenberg Blocks has started.
+[15-Jan-2024 06:53:51 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[15-Jan-2024 06:53:51 UTC] BLOCK: Requests count 8
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 1 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 1
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 2 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 2
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 3 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 3
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 4 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 4
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 5 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 5
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 6 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 6
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 7 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 7
+[15-Jan-2024 06:53:51 UTC] BLOCK: Importing request 8 ..
+[15-Jan-2024 06:53:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[15-Jan-2024 06:53:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[15-Jan-2024 06:53:51 UTC] BLOCK: Completed request 8
+[15-Jan-2024 06:53:51 UTC] SITE: Getting Total Sites
+[15-Jan-2024 06:53:51 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[15-Jan-2024 06:53:51 UTC] SITE: Request count 7
+[15-Jan-2024 06:53:51 UTC] SITE: Importing request 1 ..
+[15-Jan-2024 06:53:51 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[15-Jan-2024 06:53:51 UTC] SITE: Storing in option ast-block-templates-sites-1
+[15-Jan-2024 06:53:51 UTC] SITE: Completed request 1
+[15-Jan-2024 06:53:51 UTC] SITE: Importing request 2 ..
+[15-Jan-2024 06:53:51 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[15-Jan-2024 06:53:52 UTC] SITE: Storing in option ast-block-templates-sites-2
+[15-Jan-2024 06:53:52 UTC] SITE: Completed request 2
+[15-Jan-2024 06:53:52 UTC] SITE: Importing request 3 ..
+[15-Jan-2024 06:53:52 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[15-Jan-2024 06:53:52 UTC] SITE: Storing in option ast-block-templates-sites-3
+[15-Jan-2024 06:53:52 UTC] SITE: Completed request 3
+[15-Jan-2024 06:53:52 UTC] SITE: Importing request 4 ..
+[15-Jan-2024 06:53:52 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[15-Jan-2024 06:53:52 UTC] SITE: Storing in option ast-block-templates-sites-4
+[15-Jan-2024 06:53:52 UTC] SITE: Completed request 4
+[15-Jan-2024 06:53:52 UTC] SITE: Importing request 5 ..
+[15-Jan-2024 06:53:52 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[15-Jan-2024 06:53:52 UTC] SITE: Storing in option ast-block-templates-sites-5
+[15-Jan-2024 06:53:52 UTC] SITE: Completed request 5
+[15-Jan-2024 06:53:52 UTC] SITE: Importing request 6 ..
+[15-Jan-2024 06:53:52 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[15-Jan-2024 06:53:52 UTC] SITE: Storing in option ast-block-templates-sites-6
+[15-Jan-2024 06:53:52 UTC] SITE: Completed request 6
+[15-Jan-2024 06:53:52 UTC] SITE: Importing request 7 ..
+[15-Jan-2024 06:53:52 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[15-Jan-2024 06:53:52 UTC] SITE: Storing in option ast-block-templates-sites-7
+[15-Jan-2024 06:53:52 UTC] SITE: Completed request 7
+[15-Jan-2024 06:53:52 UTC] Sync process for Gutenberg Blocks is done.
+[15-Jan-2024 06:53:52 UTC] BLOCK: Getting Server Custimizer CSS
+[15-Jan-2024 06:53:52 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[15-Jan-2024 07:16:45 UTC] Astra Addon: DB version updated!
+[15-Jan-2024 07:16:45 UTC] Astra Addon: Batch Process Completed!
+[16-Jan-2024 07:15:54 UTC] Sync process for Gutenberg Blocks has started.
+[16-Jan-2024 07:15:54 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[16-Jan-2024 07:15:54 UTC] BLOCK: Requests count 8
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 1 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 1
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 2 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 2
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 3 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 3
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 4 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 4
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 5 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 5
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 6 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 6
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 7 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 7
+[16-Jan-2024 07:15:54 UTC] BLOCK: Importing request 8 ..
+[16-Jan-2024 07:15:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[16-Jan-2024 07:15:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[16-Jan-2024 07:15:54 UTC] BLOCK: Completed request 8
+[16-Jan-2024 07:15:54 UTC] SITE: Getting Total Sites
+[16-Jan-2024 07:15:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[16-Jan-2024 07:15:54 UTC] SITE: Request count 7
+[16-Jan-2024 07:15:54 UTC] SITE: Importing request 1 ..
+[16-Jan-2024 07:15:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[16-Jan-2024 07:15:54 UTC] SITE: Storing in option ast-block-templates-sites-1
+[16-Jan-2024 07:15:54 UTC] SITE: Completed request 1
+[16-Jan-2024 07:15:54 UTC] SITE: Importing request 2 ..
+[16-Jan-2024 07:15:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[16-Jan-2024 07:15:54 UTC] SITE: Storing in option ast-block-templates-sites-2
+[16-Jan-2024 07:15:54 UTC] SITE: Completed request 2
+[16-Jan-2024 07:15:54 UTC] SITE: Importing request 3 ..
+[16-Jan-2024 07:15:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[16-Jan-2024 07:15:54 UTC] SITE: Storing in option ast-block-templates-sites-3
+[16-Jan-2024 07:15:54 UTC] SITE: Completed request 3
+[16-Jan-2024 07:15:54 UTC] SITE: Importing request 4 ..
+[16-Jan-2024 07:15:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[16-Jan-2024 07:15:54 UTC] SITE: Storing in option ast-block-templates-sites-4
+[16-Jan-2024 07:15:54 UTC] SITE: Completed request 4
+[16-Jan-2024 07:15:54 UTC] SITE: Importing request 5 ..
+[16-Jan-2024 07:15:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[16-Jan-2024 07:15:55 UTC] SITE: Storing in option ast-block-templates-sites-5
+[16-Jan-2024 07:15:55 UTC] SITE: Completed request 5
+[16-Jan-2024 07:15:55 UTC] SITE: Importing request 6 ..
+[16-Jan-2024 07:15:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[16-Jan-2024 07:15:55 UTC] SITE: Storing in option ast-block-templates-sites-6
+[16-Jan-2024 07:15:55 UTC] SITE: Completed request 6
+[16-Jan-2024 07:15:55 UTC] SITE: Importing request 7 ..
+[16-Jan-2024 07:15:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[16-Jan-2024 07:15:55 UTC] SITE: Storing in option ast-block-templates-sites-7
+[16-Jan-2024 07:15:55 UTC] SITE: Completed request 7
+[16-Jan-2024 07:15:55 UTC] Sync process for Gutenberg Blocks is done.
+[16-Jan-2024 07:15:55 UTC] BLOCK: Getting Server Custimizer CSS
+[16-Jan-2024 07:15:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[19-Jan-2024 14:20:37 UTC] Sync process for Gutenberg Blocks has started.
+[19-Jan-2024 14:20:37 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[19-Jan-2024 14:20:37 UTC] BLOCK: Requests count 8
+[19-Jan-2024 14:20:37 UTC] BLOCK: Importing request 1 ..
+[19-Jan-2024 14:20:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[19-Jan-2024 14:20:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[19-Jan-2024 14:20:37 UTC] BLOCK: Completed request 1
+[19-Jan-2024 14:20:37 UTC] BLOCK: Importing request 2 ..
+[19-Jan-2024 14:20:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[19-Jan-2024 14:20:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[19-Jan-2024 14:20:37 UTC] BLOCK: Completed request 2
+[19-Jan-2024 14:20:37 UTC] BLOCK: Importing request 3 ..
+[19-Jan-2024 14:20:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[19-Jan-2024 14:20:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[19-Jan-2024 14:20:37 UTC] BLOCK: Completed request 3
+[19-Jan-2024 14:20:37 UTC] BLOCK: Importing request 4 ..
+[19-Jan-2024 14:20:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[19-Jan-2024 14:20:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[19-Jan-2024 14:20:37 UTC] BLOCK: Completed request 4
+[19-Jan-2024 14:20:37 UTC] BLOCK: Importing request 5 ..
+[19-Jan-2024 14:20:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[19-Jan-2024 14:20:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[19-Jan-2024 14:20:37 UTC] BLOCK: Completed request 5
+[19-Jan-2024 14:20:37 UTC] BLOCK: Importing request 6 ..
+[19-Jan-2024 14:20:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[19-Jan-2024 14:20:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[19-Jan-2024 14:20:37 UTC] BLOCK: Completed request 6
+[19-Jan-2024 14:20:37 UTC] BLOCK: Importing request 7 ..
+[19-Jan-2024 14:20:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[19-Jan-2024 14:20:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[19-Jan-2024 14:20:38 UTC] BLOCK: Completed request 7
+[19-Jan-2024 14:20:38 UTC] BLOCK: Importing request 8 ..
+[19-Jan-2024 14:20:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[19-Jan-2024 14:20:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[19-Jan-2024 14:20:38 UTC] BLOCK: Completed request 8
+[19-Jan-2024 14:20:38 UTC] SITE: Getting Total Sites
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[19-Jan-2024 14:20:38 UTC] SITE: Request count 7
+[19-Jan-2024 14:20:38 UTC] SITE: Importing request 1 ..
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[19-Jan-2024 14:20:38 UTC] SITE: Storing in option ast-block-templates-sites-1
+[19-Jan-2024 14:20:38 UTC] SITE: Completed request 1
+[19-Jan-2024 14:20:38 UTC] SITE: Importing request 2 ..
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[19-Jan-2024 14:20:38 UTC] SITE: Storing in option ast-block-templates-sites-2
+[19-Jan-2024 14:20:38 UTC] SITE: Completed request 2
+[19-Jan-2024 14:20:38 UTC] SITE: Importing request 3 ..
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[19-Jan-2024 14:20:38 UTC] SITE: Storing in option ast-block-templates-sites-3
+[19-Jan-2024 14:20:38 UTC] SITE: Completed request 3
+[19-Jan-2024 14:20:38 UTC] SITE: Importing request 4 ..
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[19-Jan-2024 14:20:38 UTC] SITE: Storing in option ast-block-templates-sites-4
+[19-Jan-2024 14:20:38 UTC] SITE: Completed request 4
+[19-Jan-2024 14:20:38 UTC] SITE: Importing request 5 ..
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[19-Jan-2024 14:20:38 UTC] SITE: Storing in option ast-block-templates-sites-5
+[19-Jan-2024 14:20:38 UTC] SITE: Completed request 5
+[19-Jan-2024 14:20:38 UTC] SITE: Importing request 6 ..
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[19-Jan-2024 14:20:38 UTC] SITE: Storing in option ast-block-templates-sites-6
+[19-Jan-2024 14:20:38 UTC] SITE: Completed request 6
+[19-Jan-2024 14:20:38 UTC] SITE: Importing request 7 ..
+[19-Jan-2024 14:20:38 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[19-Jan-2024 14:20:38 UTC] SITE: Storing in option ast-block-templates-sites-7
+[19-Jan-2024 14:20:38 UTC] SITE: Completed request 7
+[19-Jan-2024 14:20:38 UTC] Sync process for Gutenberg Blocks is done.
+[19-Jan-2024 14:20:38 UTC] BLOCK: Getting Server Custimizer CSS
+[19-Jan-2024 14:20:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[19-Jan-2024 14:23:42 UTC] Astra Addon: Batch Process Started!
+[19-Jan-2024 14:23:42 UTC] Astra Addon: Running migration without batch processing.
+[19-Jan-2024 14:23:42 UTC] Astra Addon: DB version updated!
+[19-Jan-2024 14:24:53 UTC] Astra Addon: Batch Process Started!
+[19-Jan-2024 14:24:54 UTC] Astra Addon: Running migration without batch processing.
+[19-Jan-2024 14:24:54 UTC] Astra Addon: DB version updated!
+[19-Jan-2024 14:26:32 UTC] Astra Addon: Batch Process Started!
+[19-Jan-2024 14:26:33 UTC] Astra Addon: Running migration without batch processing.
+[19-Jan-2024 14:26:33 UTC] Astra Addon: DB version updated!
+[19-Jan-2024 14:28:23 UTC] Astra Addon: Batch Process Started!
+[19-Jan-2024 14:28:23 UTC] Astra Addon: Running migration without batch processing.
+[19-Jan-2024 14:28:23 UTC] Astra Addon: DB version updated!
+[19-Jan-2024 14:29:27 UTC] Astra Addon: Batch Process Started!
+[19-Jan-2024 14:29:27 UTC] Astra Addon: Running migration without batch processing.
+[19-Jan-2024 14:29:27 UTC] Astra Addon: DB version updated!
+[19-Jan-2024 14:32:44 UTC] Astra Addon: Batch Process Started!
+[19-Jan-2024 14:32:44 UTC] Astra Addon: Queuing 4.1.6 - astra_addon_background_updater_4_1_6
+[19-Jan-2024 14:32:44 UTC] Astra Addon: Queuing 4.4.0 - astra_addon_background_updater_4_4_0
+[19-Jan-2024 14:32:44 UTC] Astra Addon: Queuing 4.6.0 - astra_addon_background_updater_4_6_0
+[19-Jan-2024 14:32:44 UTC] Astra Addon: Queuing 4.6.1 - astra_addon_background_updater_4_6_1
+[19-Jan-2024 14:34:23 UTC] Astra Addon: DB version updated!
+[19-Jan-2024 14:34:23 UTC] Astra Addon: Batch Process Completed!
+[20-Jan-2024 08:27:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Jan-2024 02:51:06 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Feb-2024 13:07:20 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Feb-2024 08:43:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Mar-2024 07:53:58 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wpci_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Assets\Api->update_script_data_cache, set_transient, update_option
+[24-Mar-2024 23:22:47 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wpci_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Assets\Api->update_script_data_cache, set_transient, update_option
+[24-Mar-2024 23:22:47 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wpci_options` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Blocks\Assets\Api->update_script_data_cache, set_transient, update_option
+[02-Apr-2024 18:51:31 UTC] PHP Warning:  require_once(/home/divdevel/public_html/wp-includes/l10n/class-wp-translation-controller.php): failed to open stream: No such file or directory in /home/divdevel/public_html/wp-includes/load.php on line 1493
+[02-Apr-2024 18:51:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/divdevel/public_html/wp-includes/l10n/class-wp-translation-controller.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/divdevel/public_html/wp-includes/load.php on line 1493
+[02-Apr-2024 18:51:36 UTC] PHP Warning:  require_once(/home/divdevel/public_html/wp-includes/l10n/class-wp-translation-controller.php): failed to open stream: No such file or directory in /home/divdevel/public_html/wp-includes/load.php on line 1493
+[02-Apr-2024 18:51:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/divdevel/public_html/wp-includes/l10n/class-wp-translation-controller.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/divdevel/public_html/wp-includes/load.php on line 1493
+[08-Apr-2024 07:15:45 UTC] Cron reschedule event error for hook: wc_admin_daily, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[09-Apr-2024 19:54:15 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-May-2024 00:59:36 UTC] WordPress database error Table 'divdevel_wp134.wpfl_categorymeta' doesn't exist for query SELECT category_id, meta_key, meta_value FROM wpfl_categorymeta WHERE category_id IN (1) ORDER BY meta_id ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/porto/index.php'), get_header, locate_template, load_template, require_once('/themes/porto/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, porto_action_head, porto_meta_layout, porto_meta_use_default, get_metadata, get_metadata_raw, update_meta_cache
+[12-May-2024 08:20:51 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-May-2024 03:43:04 UTC] PHP Warning:  fsockopen(): unable to connect to node3.quic.cloud:443 (Connection timed out) in /home/divdevel/public_html/wp-content/plugins/litespeed-cache/src/utility.cls.php on line 166
+[13-May-2024 09:00:49 UTC] PHP Warning:  fsockopen(): unable to connect to node3.quic.cloud:443 (Connection timed out) in /home/divdevel/public_html/wp-content/plugins/litespeed-cache/src/utility.cls.php on line 166
+[15-May-2024 09:52:09 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-May-2024 09:52:09 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
